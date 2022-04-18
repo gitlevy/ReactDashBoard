@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Charts Dashboard in React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online Preview : https://beautiful-bublanina-a5aa0f.netlify.app/
+
+##
 
 ## Available Scripts
 
